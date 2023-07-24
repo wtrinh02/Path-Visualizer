@@ -8,6 +8,6 @@ Left click to place start node and end node\
 Press (o) or (b) to swap between obstacles and barriers respectively\
 Left click to place barriers(can't pass through nodes) or obstacles(worth 5 node)\
 Space to run the visualizer\
-c to clear grid and start new\
+c to clear grid and start new
 
 By Wesley Trinh
