@@ -377,6 +377,7 @@ def main(win, width, Algorithm, barrier):
                     start = None
                     end = None
                     grid = make_grid(ROWS, width)
+                    barrier = True
 
                 if event.key == pygame.K_o:
                     barrier = False
